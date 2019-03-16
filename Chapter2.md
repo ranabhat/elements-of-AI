@@ -9,9 +9,9 @@
 Requires formulating the alternative choices and their consequences. 
 
 First stage of the problem solving process:
-> a. defining the choices
-> b. their consequences
-> c. define what the goal is 
+> * defining the choices
+> * their consequences
+> * define what the goal is 
 
 #### Solving problems with AI
 -----------------------------
