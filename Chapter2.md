@@ -9,9 +9,9 @@
 Requires formulating the alternative choices and their consequences. 
 
 First stage of the problem solving process:
-> a) defining the choices
-> b) their consequences
-> c) define what the goal is 
+> a. defining the choices
+> b. their consequences
+> c. define what the goal is 
 
 #### Solving problems with AI
 -----------------------------
@@ -20,4 +20,4 @@ John McCarth's key statement about AI
 ```
 "The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can precisely described that a machine can be made to simulate it."
 ```
-In other words, any elemts of intelligence can be broken down into small steps so that each of the steps is as such so simple and "mechanical" that it can be written down as a computer program.
+In other words, any elements of intelligence can be broken down into small steps so that each of the steps is as such so simple and "mechanical" that it can be written down as a computer program.
