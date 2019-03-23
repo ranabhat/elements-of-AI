@@ -21,3 +21,4 @@
 ---------------
 
 > 1. **Prior and posterior odds**: The Bayes rule can be expressed in many forms. The simplest one is in terms of odds. The idea is to take the odds for something happening (against it not happening), which we'll write as prior odds. The word prior refers to our assessment of the odds before obtaining some new information that may be relevant. The purpose of the formula is to update the prior odds when new information becomes available, to obtain the posterior odds, or the odds after obtaining the information (the dictionary meaning of posterior is "something that comes after, later.")
+> 2. **Likelihood ratio**: is the probability of the observation in case the event of interest, divided by the probability of the observation in case of no event.
