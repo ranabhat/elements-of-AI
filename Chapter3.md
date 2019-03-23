@@ -27,11 +27,11 @@ Used to weigh conflicting pieces of evidence in medicine, in a court of law, and
     how much higher are the chances of clouds on a rainyday compared to a rainless day ?
     answer: chances of clouds are nine times higher on a rainy day than on a rainless day.
 ```
-> * posterior odds = likelihood ratio * prior odds = 9* (206/359) = 1854:159
+>  posterior odds = likelihood ratio * prior odds = 9* (206/359) = 1854:159
 
 #### Naive Bayes classification
 --------------------------------
 
 The Bayes classifier is a machine learning technique that can be used to classify objects such as text documents into two or more classes. The classifier is trained by analyzing a set of training data, for which the correct classes are given.
-> * Naive Bayes classifier cab be used to determine the probabilities of the classes given a number of different onservations.
+> * Naive Bayes classifier can be used to determine the probabilities of the classes given a number of different observations.
 > * Real world application: spam filters
